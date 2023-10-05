@@ -1,3 +1,7 @@
+/****
+Esta clase está añadida a GIT.
+ ****/
+
 public class Precesador {
     //Estados, atributos, propiedaes
     public String marca;
