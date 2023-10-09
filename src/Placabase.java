@@ -5,7 +5,7 @@ public class Placabase {
     public Double precio;
 
     public String getNombreCompleto() {
-        return marca + modelo + precio;
+        return marca + " " + modelo + " " + precio;
     }
 
     public String getMarca() {

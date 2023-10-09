@@ -10,7 +10,7 @@ public class CajaTorre {
             return dimensiones + " " + modelo + " " + precio + " " + peso;
         }
 
-        public String getMarca(){
+        public String getDimensiones(){
             return dimensiones;
         }
 
