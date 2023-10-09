@@ -3,7 +3,7 @@ Esta clase está añadida a GIT.
  ****/
 
 public class Precesador {
-    //Estados, atributos, propiedaes
+    //Estados, atributos, propiedades
     public String marca;
     public String modelo;
     public Double precio;
