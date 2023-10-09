@@ -1,6 +1,6 @@
 public class CajaTorre {
 
-        public String dimensiones;
+        public Double dimensiones;
         public String modelo;
         public Double precio;
         public Double peso;
@@ -10,7 +10,7 @@ public class CajaTorre {
             return dimensiones + " " + modelo + " " + precio + " " + peso;
         }
 
-        public String getDimensiones(){
+        public Double getDimensiones(){
             return dimensiones;
         }
 
