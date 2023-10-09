@@ -1,5 +1,5 @@
 public class MemoriaRAM {
-    public String memoriainterna;
+    public Integer memoriainterna;
     public String modelo;
     public Double precio;
 
@@ -9,7 +9,7 @@ public class MemoriaRAM {
         return memoriainterna + " " + modelo + " " + precio;
     }
 
-    public String getMemoriaInterna(){
+    public Integer getMemoriaInterna(){
         return memoriainterna;
     }
 
